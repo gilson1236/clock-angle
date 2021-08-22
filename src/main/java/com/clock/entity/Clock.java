@@ -36,7 +36,6 @@ public class Clock {
 		if(this.angulo > 180) {
 			this.angulo = 360 - this.angulo;
 		}
-		System.out.println(this.angulo);
 		return this.angulo;
 	}
 
