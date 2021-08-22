@@ -9,4 +9,5 @@ O que foi contemplado como condições?
 * Maven
 * JSON como content-type de retorno
 * url de testar: http://localhost:8080/rest/clock/hora/minuto ou http://localhost:8080/rest/clock/hora 
-caso queira calcular o ângulo com o minuto zero.
+caso queira calcular o ângulo com o minuto zero
+* Uso de JUnit 5 para fazer os testes unitários
